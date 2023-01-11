@@ -13,3 +13,9 @@ Penetration testing, or pentesting for short, is the practice of testing a compu
 There are several steps involved in pentesting a website, including:
 ### 1.
 `Reconnaissance: Gather information about the website and its infrastructure, such as the web server software and version, the IP address, and the structure of the URLs.`
+
+### 2.
+`Scanning: Use automated tools to scan the website for known vulnerabilities and open ports.`
+
+### 3.
+`Vulnerability Analysis: Manually identify vulnerabilities by analyzing the results of the scan and examining the website's source code.`
