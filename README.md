@@ -19,3 +19,14 @@ There are several steps involved in pentesting a website, including:
 
 ### 3.
 `Vulnerability Analysis: Manually identify vulnerabilities by analyzing the results of the scan and examining the website's source code.`
+
+### 4.
+`Exploitation: Attempt to exploit the identified vulnerabilities to gain access to the website and its data.`
+
+### 5.
+`Post-Exploitation: Attempt to maintain access and escalate privileges once inside the network.`
+
+### 6.
+`Reporting: Prepare a detailed report that documents the methods and steps used to complete the test, the vulnerabilities found, and the recommendations for fixing these issues.`
+
+It's important to note that to perform a pentest you need to have permission from the owner of the website, and if you don't, that is illegal. And you should always follow the rules and regulations for legal and ethical conduct. I recommend using official or legal channels to conduct this type of assessment and professional tools for that. And also consider the possibility of using simulated environments for your testing or get training in a accredited institution.
