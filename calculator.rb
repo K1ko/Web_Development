@@ -14,7 +14,7 @@ when "+" then num1 + num2
 when "-" then num1 - num2
 when "*" then num1 * num2
 when "/" then num1 / num2
-end
+end #end of a function
 
 # Print the result
 puts "The result is: #{result}"
