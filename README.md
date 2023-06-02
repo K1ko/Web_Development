@@ -1,6 +1,8 @@
 # Web_Development
 Web Development / CyberSecurity course \
-`Starting point -> 13.12.2022.`
+`Starting point -> 13.12.2022.` \
+Break till 1.6.2023. \
+`Started again -> 1.6.2022.` 
 ## Useful resources
 `https://developer.mozilla.org/en-US/`
 
