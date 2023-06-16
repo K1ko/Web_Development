@@ -37,7 +37,7 @@
     <input type = "text" name = "q">
     <button>Search</button>
 
-    
+
 </form>
 <form action = "https://www.google.com/search">
         <input type = "text" name = "q">
@@ -52,6 +52,24 @@
 <form action="/birds">
     <input type="checkbox" name="agree_tos" value="agree">
     <label>I agree to everything</label>
+    <p>
+        <label for="xs">XS:</label>
+        <input type="radio" name="size" id="xs" value="xs">
+        <label for="medium">M:</label>
+        <input type="radio" name="size" id="medium" value="m">
+        <label for="large">L:</label>
+        <input type="radio" name="size" id="large" value="l">
+    </p>
+    <p>
+        <label for="meal">Please Selent an Entree:</label>
+        <select name = "meal" id = "meal">
+            <option value = "chicken">Chicken</option>
+            <option value = "fish">Fish</option>
+            <option value = "steak">Steak</option>
+            <option value = "pasta" selected>Pasta</option>
+        </select>
+
+    </p>
     <button>Submit</button>
 </form>
 </body>
