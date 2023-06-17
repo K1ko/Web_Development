@@ -74,6 +74,29 @@
         <label for="cheese">How much cheese do you want?</label>
         <input type="range" id = "cheese" min="1" max="100" step = "7" name="cheese_label">
     </p>
+
+    <p>
+        <input type="number" placeholder="Enter a number">
+    </p>
+
+    <p>
+        <label>Any Special Requests?</label>
+        <textarea name="special_requests" id="special_requests" cols="30" rows="10" placeholder="Enter a special request"></textarea>
+    </p>
+    <button>Submit</button>
+</form>
+<h2>Form Validation</h2>
+<form action="/dummy">
+    <label for="first">Enter a first name</label>
+    <input type="text" name="first" id = "first" required>
+    <p>
+        <label for="username">Enter a username</label>
+        <input type="text" name="username"  minlength="3" maxlength="10" required>
+    </p>
+    <p>
+        <label for="email">Enter an email</label>
+        <input type="email" name="email" id = "email" required>
+    </p>
     <button>Submit</button>
 </form>
 </body>
