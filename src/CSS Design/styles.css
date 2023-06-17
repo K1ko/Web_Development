@@ -1,0 +1,12 @@
+h2 {
+    color: slategrey;
+    font-size: 2.5rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-shadow: 0 0.2rem 0.2rem rgba(0, 0, 0, 0.2);
+}
