@@ -1,0 +1,47 @@
+body{
+    margin: 10px;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background-color:salmon;
+}
+
+h1{
+    color: white;
+    background-color: salmon;
+    width: 200px;
+    height: 50px;
+    padding-left: 100px;
+    margin-bottom: 0;
+
+}
+
+#one {
+    background-color: red;
+    border-width: 5px;
+    border-style: solid;
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-bottom: 150px;
+}
+
+#two {
+    background-color: blue;
+    border-color: sandybrown;
+    border-width: 3px;
+    border-style:dashed;
+    border-left-color: slategrey;
+    border-left-width: thick;
+    padding-right: 50px;
+    margin : 200px;
+}
+
+#three {
+    background-color: green;
+    border: 5px solid #ef1111;
+}
+
+button {
+    padding: 10px 20px;
+}

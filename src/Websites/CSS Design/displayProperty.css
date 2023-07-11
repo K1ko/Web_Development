@@ -1,0 +1,12 @@
+h1{
+    background-color: sandybrown;
+    border: 1px solid black;
+    display: inline;
+
+}
+
+span{
+    background-color: aqua;
+    border: 1px solid black;
+    display:block;
+}
